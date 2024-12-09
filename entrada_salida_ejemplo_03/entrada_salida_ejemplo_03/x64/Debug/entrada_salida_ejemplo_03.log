@@ -1,0 +1,3 @@
+﻿  entrada_salida_ejemplo_03.cpp
+D:\Develop\Marcombo\entrada_salida_ejemplo_03\entrada_salida_ejemplo_03\entrada_salida_ejemplo_03.cpp(327,14): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  entrada_salida_ejemplo_03.vcxproj -> D:\Develop\Marcombo\entrada_salida_ejemplo_03\x64\Debug\entrada_salida_ejemplo_03.exe
